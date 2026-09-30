@@ -12,8 +12,9 @@ Me gusta llevar los proyectos completos: requisitos y diagramas, código con pru
 |---|---|---|---|
 | [**CuentasClaras**](https://github.com/robledocordoba123-cmyk/CuentasClaras) | Finanzas personales: cuentas, presupuestos con alertas, transferencias atómicas y 72 pruebas contra PostgreSQL real | Java 21 · Spring Boot · PostgreSQL · React · Docker | [Probar](https://cuentasclaras-demo.vercel.app) |
 | [**RitmoApp**](https://github.com/robledocordoba123-cmyk/RitmoApp) | SaaS para academias de baile: datos aislados por academia y reservas sin sobrecupo bajo concurrencia | Node.js · Express · Prisma · PostgreSQL · React | [Probar](https://ritmoapp-demo.vercel.app) |
+| [**ElCuaderno**](https://github.com/robledocordoba123-cmyk/ElCuaderno) | Ventas, inventario y fiados para la tienda de barrio: mismos esquemas Zod en front y API, ventas sin sobreventa y 27 pruebas | TypeScript · NestJS · Drizzle · PostgreSQL · React | [Probar](https://elcuaderno-demo.vercel.app) |
 
-Las dos demos entran con un clic, sin registrarse.
+Las tres demos entran con un clic, sin registrarse.
 
 ## Con qué trabajo
 
@@ -21,6 +22,8 @@ Las dos demos entran con un clic, sin registrarse.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" />
@@ -35,8 +38,8 @@ Las dos demos entran con un clic, sin registrarse.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" />
 </p>
 
-- **Backend:** Java 21, Spring Boot, Spring Security, Node.js, Express, C# y .NET, PHP y Laravel, Python
-- **Datos:** PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, JPA, Prisma, Flyway
+- **Backend:** Java 21, Spring Boot, Spring Security, Node.js, TypeScript, NestJS, Express, C# y .NET, PHP y Laravel, Python
+- **Datos:** PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, JPA, Prisma, Drizzle, Flyway
 - **Calidad y DevOps:** JUnit 5, Testcontainers, Jest, Git, GitHub Actions, Docker, Kubernetes, Nginx, Linux
 - **Análisis y diseño:** historias de usuario, requisitos, UML, BPMN, Scrum, modelo entidad-relación
 - **Seguridad:** JWT y roles, matriz de riesgos, implantación segura, manejo de secretos
