@@ -1,6 +1,6 @@
 # Hola, soy Manuela 👋
 
-Desarrolladora **backend y full stack** en Medellín, Colombia. Estudio Tecnología en Análisis y Desarrollo de Software en el **SENA** y busco **contrato de aprendizaje desde abril de 2027**.
+Desarrolladora **full stack** en Medellín, Colombia. Estudio Tecnología en Análisis y Desarrollo de Software en el **SENA** y busco **contrato de aprendizaje desde abril de 2027**.
 
 Me gusta llevar los proyectos completos: requisitos y diagramas, código con pruebas automatizadas, contenedores y despliegue. Trabajo con ramas y Pull Requests, con integración continua en GitHub Actions.
 
@@ -10,8 +10,8 @@ Me gusta llevar los proyectos completos: requisitos y diagramas, código con pru
 
 | Proyecto | Qué es | Stack | Demo |
 |---|---|---|---|
-| [**CuentasClaras**](https://github.com/robledocordoba123-cmyk/CuentasClaras) | Finanzas personales: cuentas, presupuestos con alertas, transferencias atómicas y 72 pruebas contra PostgreSQL real | Java 21 · Spring Boot · PostgreSQL · React · Docker | [Probar](https://cuentasclaras-demo.vercel.app) |
-| [**RitmoApp**](https://github.com/robledocordoba123-cmyk/RitmoApp) | SaaS para academias de baile: datos aislados por academia y reservas sin sobrecupo bajo concurrencia | Node.js · Express · Prisma · PostgreSQL · React | [Probar](https://ritmoapp-demo.vercel.app) |
+| [**CuentasClaras**](https://github.com/robledocordoba123-cmyk/CuentasClaras) | Finanzas personales: cuentas, presupuestos con alertas, transferencias atómicas y 70 pruebas contra PostgreSQL real | Java 21 · Spring Boot · PostgreSQL · React · Docker | [Probar](https://cuentasclaras-demo.vercel.app) |
+| [**RitmoApp**](https://github.com/robledocordoba123-cmyk/RitmoApp) | SaaS para academias de baile: datos aislados por academia, reservas sin sobrecupo bajo concurrencia y 90 pruebas | Node.js · Express · Prisma · PostgreSQL · React | [Probar](https://ritmoapp-demo.vercel.app) |
 | [**ElCuaderno**](https://github.com/robledocordoba123-cmyk/ElCuaderno) | Ventas, inventario y fiados para la tienda de barrio: mismos esquemas Zod en front y API, ventas sin sobreventa y 27 pruebas | TypeScript · NestJS · Drizzle · PostgreSQL · React | [Probar](https://elcuaderno-demo.vercel.app) |
 
 Las tres demos entran con un clic, sin registrarse.
