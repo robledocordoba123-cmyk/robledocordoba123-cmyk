@@ -45,6 +45,10 @@ Las cuatro demos entran con un clic, sin registrarse.
 - **Análisis y diseño:** historias de usuario, requisitos, UML, BPMN, Scrum, modelo entidad-relación
 - **Seguridad:** JWT y roles, matriz de riesgos, implantación segura, manejo de secretos
 
+## Certificados
+
+- 🏅 [**Building with the Claude API**](https://academy.claude.com/verify/e4e45562c0607451741ccedcbaec4988) · Anthropic (Claude Academy), octubre de 2026: prompts y su evaluación, uso de herramientas, RAG, MCP y agentes.
+
 ## Cómo trabajo
 
 1. **Diseño** antes de programar: historias de usuario, reglas de negocio y modelo de datos.
