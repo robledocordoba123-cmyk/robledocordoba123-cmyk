@@ -51,3 +51,4 @@ Las cuatro demos entran con un clic, sin registrarse.
 2. **Código** en ramas pequeñas, cada una con su Pull Request.
 3. **Pruebas** automáticas contra una base de datos real, en cada cambio.
 4. **Despliegue** con Docker y los secretos fuera del código.
+5. **IA como herramienta**: uso asistentes de IA (Claude Code) para avanzar más rápido, pero las decisiones, la revisión y las pruebas son mías, y puedo explicar todo lo que entrego.
