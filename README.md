@@ -1,6 +1,6 @@
 # Hola, soy Manuela 👋
 
-Desarrolladora **full stack** en Medellín, Colombia. Estudio Tecnología en Análisis y Desarrollo de Software en el **SENA** y busco **contrato de aprendizaje desde abril de 2027**.
+Desarrolladora **full stack** en Medellín, Colombia. Estudio Tecnología en Análisis y Desarrollo de Software en el **SENA** y busco **contrato de aprendizaje desde ya** (etapa lectiva o productiva).
 
 Me gusta llevar los proyectos completos: requisitos y diagramas, código con pruebas automatizadas, contenedores y despliegue. Trabajo con ramas y Pull Requests, con integración continua en GitHub Actions.
 
